@@ -1,0 +1,25 @@
+
+.row .shopping-mall h1{
+    font-style: italic;
+    font-size: 50px;
+    color: orange;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+.row .shopping-mall h5{
+    margin-top: 20px;
+    letter-spacing: 0.5px;
+    color: green;
+    font-size: 15px;
+}
+#head-link {
+    padding: 10px 10px;
+    background-color: orange;
+    font-size: 17px;
+}
+.card:hover{
+    border-color: green;
+}
